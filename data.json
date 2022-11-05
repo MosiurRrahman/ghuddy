@@ -1,17 +1,5 @@
 [
-   [client_info]{
-      "clientName":"MR. Firstname Lastname",
-      "mobile":"+880747445745734",
-      "checkinDate":"15th October, 2022",
-      "Tracking Number":"SFHSGFGJHGDGJDHGBDHJGHJ"
-  }
-  [billing_info]{
-   "clientName":"MR. Firstname Lastname",
-   "mobile":"+880747445745734",
-   "checkinDate":"15th October, 2022",
-   "Tracking Number":"SFHSGFGJHGDGJDHGBDHJGHJ"
-}
-   [hotel_info]{
+
       {
          "oder_id" : 544,
          "requestId":"10",
@@ -6503,5 +6491,5 @@
             "description":"This hotel is great for sure! This adorable one bedroom apartment is on the edge of fashionable Soho and Tribeca and would make a great base for a hip couple wanting to be in the heart of the action - it has plenty of great restaurants."
          }
       }
-   }
+
 ]
